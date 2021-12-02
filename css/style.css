@@ -305,6 +305,10 @@ ol {
 
 .header__logo {
   padding: 30px 0;
+<<<<<<< HEAD
+=======
+  /* width: 30px; */
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
 }
 .header__logo a {
   display: inline-block;
@@ -827,7 +831,12 @@ ol {
 }
 .callto.sp__callto {
   padding-top: 0;
+<<<<<<< HEAD
   background: #100028;
+=======
+  /* background: #100028; */
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
 }
 
 .callto__text h2 {
@@ -1030,7 +1039,11 @@ ol {
   About
 -----------------------*/
 .about {
+<<<<<<< HEAD
   background: #100028;
+=======
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
   padding-bottom: 150px;
 }
 
@@ -1131,7 +1144,11 @@ ol {
   Services
 -----------------------*/
 .services {
+<<<<<<< HEAD
   background: #ab1a1a;
+=======
+  background: darkcyan;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
   padding-bottom: 60px;
   padding-top: 110px;
 }
@@ -1183,7 +1200,12 @@ ol {
   Services Page
 -----------------------*/
 .services-page {
+<<<<<<< HEAD
   background: #100028;
+=======
+  /* background: #100028; */
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
   padding-bottom: 50px;
 }
 
@@ -1191,7 +1213,12 @@ ol {
   Logo
 -----------------------*/
 .logo {
+<<<<<<< HEAD
   background: #100028;
+=======
+  /* background: #100028; */
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
   padding: 100px 20px;
 }
 
@@ -1204,7 +1231,12 @@ ol {
   Portfolio
 -----------------------*/
 .portfolio {
+<<<<<<< HEAD
   background: #100028;
+=======
+  /* background: #100028; */
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
 }
 
 .portfolio__filter {
@@ -1681,7 +1713,12 @@ ol {
   Contact Widget
 -----------------------*/
 .contact-widget {
+<<<<<<< HEAD
   background: #100028;
+=======
+  /* background: #100028; */
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
   padding-bottom: 70px;
 }
 
@@ -1722,7 +1759,12 @@ ol {
   Contact
 -----------------------*/
 .contact {
+<<<<<<< HEAD
   background: #100028;
+=======
+  /* background: #100028; */
+  background: #ab1a1a;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
   padding-top: 0;
   overflow: hidden;
 }
@@ -2169,4 +2211,19 @@ ol {
   .blog__details__quote {
     padding: 30px 40px 35px 35px;
   }
+<<<<<<< HEAD
+=======
+}
+
+.masthead {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 10rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+>>>>>>> e00f681 (tambahan dan perubahan warna, logo)
 }
